@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">1. How do you control odors in the portable toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;">We use a specialized biodegradable chemical solution in the waste tank that breaks down solid waste and neutralizes odors. Additionally, our portable toilet servicing includes thorough cleaning and venting to ensure fresh air circulation within the unit.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">2. What happens if the portable toilet gets full before the scheduled service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;">If usage is higher than expected, simply call us. We can arrange for an extra portable toilet servicing visit for a nominal fee. For large crowds, we recommend increasing the service frequency upfront to prevent this issue.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">3. Do I need to provide a water source?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;">No, our standard portable toilet rental units are self-contained. They come pre-charged with the necessary water and chemicals. However, if you rent a standalone sink or a restroom trailer, a water connection or a fill service may be required.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">4. Can you place the toilet on grass?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;">Yes, we can place portable bathroom units on grass, dirt, or pavement. The ground must be dry and level to prevent the unit from tipping or sinking. We also need to ensure our service truck can drive up to the location without getting stuck.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">5. How far in advance do I need to book?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;">We recommend booking your porta potty rental at least one week in advance for standard units. For large events or during peak summer months, booking two to four weeks early ensures we have the inventory available for your dates.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
